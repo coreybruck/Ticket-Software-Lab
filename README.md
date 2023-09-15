@@ -1,4 +1,4 @@
-# Ticket-Software-Lab
+# Ticketing-Jira-Lab
 ## Signed up to use Jira for ticketing purposes.<b>
 
 ![1](https://github.com/coreybruck/Ticketing-Software-Lab/assets/78772836/4d3d997b-19ae-4d26-89b4-8fa5e03ff084)
